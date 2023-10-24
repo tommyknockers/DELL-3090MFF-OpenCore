@@ -3,9 +3,7 @@
 This fork contains a customised setup for DELL Optiplex 3090 MFF with a Intel Core i3 Processor
 macOS Sonoma 14.0 worked maybe earlier macOS versions will still running too
 
-谢谢 and BigUP the guys from [Hackintosh.Club](https://github.com/hackintosh-club) for share they work with us
-Thanks gatorback from [tonymacx86.com ](https://www.tonymacx86.com/) for 
-
+谢谢 Thanks [Hackintosh.Club](https://github.com/hackintosh-club) for sharing their work with us.
 
 ![image](ScreenShot/case.png)
 
