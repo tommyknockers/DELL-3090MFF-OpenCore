@@ -68,6 +68,9 @@ Thanks gatorback from [tonymacx86.com ](https://www.tonymacx86.com/) for
 
 ### ScreenShot 
 
+- About
+  
+![image](ScreenShot/关于本机.png)
 
 - Geekbench5 Score i3-10105T 
 
