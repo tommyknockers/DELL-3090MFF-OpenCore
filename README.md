@@ -68,15 +68,12 @@ Thanks gatorback from [tonymacx86.com ](https://www.tonymacx86.com/) for
 
 ### ScreenShot 
 
-- About This Mac
-
-![image](ScreenShot/关于本机.png)
 
 - Geekbench5 Score i3-10105T 
 
 ![image](ScreenShot/bench.png)
 
-- Ventura 13.6 (22G120) 
+- Sonoma 14.0
 
 ![image](ScreenShot/Sonoma.jpg)
 
