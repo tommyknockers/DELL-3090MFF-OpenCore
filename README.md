@@ -74,8 +74,6 @@ macOS Sonoma 14.0 worked maybe earlier macOS versions will still running too
 
 ![image](ScreenShot/bench.png)
 
-- Sonoma 14.0
 
-![image](ScreenShot/Sonoma.jpg)
 
 
